@@ -7,7 +7,6 @@ import plotly.exceptions as px
 # Read cssv from a github
 df = pd.read_csv("https://raw.githubusercontent.com/Lexie88rus/bank-marketing-analysis/master/bank.csv")
 
-# CONFIGU
 st.set_page_config(
     page_title='Real time Data science Dashboard',
     page_icon = '✅',
